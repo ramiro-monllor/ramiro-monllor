@@ -54,10 +54,10 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/ramiro-monllor" target="_blank">
-<img src=https://res.cloudinary.com/dpb5vf1q1/image/upload/v1674169619/githubbbbbbb_tpdlhb.png?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://res.cloudinary.com/dpb5vf1q1/image/upload/v1674169824/bbbbb_p16foh.png?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/ramiro-monllor" target="_blank">
-<img src=https://res.cloudinary.com/dpb5vf1q1/image/upload/v1674169619/linkinn_wfr0lz.png?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://res.cloudinary.com/dpb5vf1q1/image/upload/v1674169824/aaaa_ovslia.png?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
