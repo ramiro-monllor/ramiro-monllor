@@ -18,7 +18,7 @@
 - ❓ How to reach me ramiromonllor@gmail.com  
   
 
-- ⚡ All of my projects are available at https://ramiromonllor.netlify.app/ (not avaible yet)  
+- ⚡ All of my projects are available at https://ramiro-monllor.vercel.app/
   
 
 <br/>  
